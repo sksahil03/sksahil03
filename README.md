@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sksahil03
 - 👀 I’m interested in front-end.
-- 🌱 I’m currently learning MCA.
 - 💞️ I’m looking for collaboration.
-- 📫 How to reach me (e-mail)
+- 📫 How to reach me (sksahilali003@gmail.com)
 
 <!---
 sksahil03/sksahil03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
